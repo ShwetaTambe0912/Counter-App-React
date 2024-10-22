@@ -1,8 +1,9 @@
-# React + Vite
+# Counter Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple counter application built using React and the useState hook. It demonstrates basic state management in a React functional component by allowing users to increment, decrement, and reset a counter value.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+The counter has three main functions:
+- Increment: Increases the count by 1.
+- Decrement: Decreases the count by 1.
+- Reset: Resets the count back to 0.
